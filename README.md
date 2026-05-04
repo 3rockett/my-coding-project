@@ -1,1 +1,1 @@
-# my-coding-project
+#claude-code
